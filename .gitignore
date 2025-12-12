@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+dist/
+build/
+
+# Environment
+.env
+.env.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Runtime data
+.local/
+replit.nix
+
+# Backup files
+*.backup
+*_backup.*
+
+# Test files
+test-*
+debug-*
+
+# Large files
+all_code.txt
+project_summary.txt
+*.ps1
+*.bat
