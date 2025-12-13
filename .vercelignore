@@ -1,0 +1,8 @@
+node_modules
+.git
+*.log
+*.backup
+.local
+all_code.txt
+test-*
+dev.ps1

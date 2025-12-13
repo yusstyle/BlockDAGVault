@@ -73,3 +73,6 @@ app.use((req, res, next) => {
   });
 })();
 
+
+// Export for Vercel serverless functions
+export default app;
