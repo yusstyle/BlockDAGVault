@@ -37,3 +37,5 @@ all_code.txt
 project_summary.txt
 *.ps1
 *.bat
+.vercel
+.env*.local
